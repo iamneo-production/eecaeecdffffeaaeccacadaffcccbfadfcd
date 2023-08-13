@@ -7,6 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'angularapp';
+  //Vishnu
   opt1:number=0;
   opt2:number=0;
   amt:number=0;
@@ -19,6 +20,4 @@ export class AppComponent {
     }
     return "";
   }
-
-  //
 }
